@@ -34,7 +34,7 @@ def main():
             'Topic :: Multimedia :: Graphics :: Capture :: Digital Camera',
         ],
         author="P. Junietz",
-        url="https://github.com/chilipp89/pibooth-qr-download",
+        url="https://github.com/chilipp89/pibooth-fire-remote",
         license='MIT',
         platforms=['unix', 'linux'],
         keywords=[
